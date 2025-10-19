@@ -1,0 +1,7 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,25,F,120,190,Healthy
+2,47,M,145,230,High BP
+3,63,F,160,250,Heart Disease
+4,35,M,130,210,Healthy
+5,52,F,140,240,High Cholesterol
+6,29,M,125,200,Healthy
